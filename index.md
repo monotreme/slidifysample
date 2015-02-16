@@ -1,6 +1,6 @@
 ---
-title       : The Pitch
-subtitle    : Best Application
+title       : SAT Scores Speak
+subtitle    : An Education System View
 author      : monotreme
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
