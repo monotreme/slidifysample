@@ -21,12 +21,16 @@ knit        : slidify::knit2slides
 
 ## Slide 2
 Test slide 2
+
 ---
+
 ## Slide 3
 Test slide 3
+
 ---
 ## Slide 4
-Test slide 4
+Test slide foo
+
 ---
 ## Slide 5
 Test slide 5
