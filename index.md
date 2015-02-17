@@ -16,6 +16,8 @@ knit        : slidify::knit2slides
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
 the graph is even cooler in the app!!
 
+---
+
 ## Do smaller class sizes make a difference?
 It's common knowledge that learning is better in small classes.  Is this really true? Use the app to look at the SAT scores to find out!
 
