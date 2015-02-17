@@ -20,6 +20,12 @@ It's common knowledge that learning is better in small classes.  Is this really 
 ## Some states have more students sitting the SATs than others.
 In some states, only a few percent of eligible students sit the SAT exams.  What are their scores like?
 
+```r
+with(SAT,plot(total ~perc,xlab="percentage of eligible students who sit the SAT exams",ylab="Combinded verbal and math SAT score."))
+```
+
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
+the graph is even cooler in the app!!
 ---
 ## Does paying teachers more make a difference?
 The data suggests a trend that where teachers are paid more, more students sit the SAT exams. Maybe wealthier areas have a greater expectation of going to college.  Take a look at the data yourself! 
