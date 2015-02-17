@@ -14,7 +14,8 @@ knit        : slidify::knit2slides
 ## Some states have more students sitting the SATs than others.
 
 ```{r echo=FALSE,fig.width=6, fig.height=4}
-with(SAT,plot(total ~perc,xlab="percentage of eligible students who sit the SAT exams",ylab="Combinded verbal and math SAT score."))
+Each point on the graph represents a state.
+with(SAT,plot(total ~perc,xlab="percentage of eligible students who sit the SAT exams",ylab="Combined verbal and math SAT score."))
 ```
 the graph is even cooler in the app!!
 
